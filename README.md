@@ -26,8 +26,6 @@ Salary dips around 8–9 years of experience across multiple roles suggest poten
 
 Job Posting by Job title
 
-<img width="1648" height="830" alt="image" src="https://github.com/user-attachments/assets/f587cf4b-de7b-45b1-9a73-1c157b48d8fe" />
-
 
 
 <img width="1678" height="944" alt="image" src="https://github.com/user-attachments/assets/e9fdbf7f-470a-493e-bfad-f82169c7b6e9" />
@@ -42,6 +40,10 @@ The bar chart displays the average years of experience required by job level, re
 Overall, the report shows that the job market is strongly oriented toward experienced and senior-level professionals, with fewer opportunities at entry-level, and that experience requirements increase consistently with job seniority.
 
 
+
+<img width="1648" height="830" alt="image" src="https://github.com/user-attachments/assets/f587cf4b-de7b-45b1-9a73-1c157b48d8fe" />
+
+The above report shows the amount of job postings for each job titles over the few years. 
 
 
 

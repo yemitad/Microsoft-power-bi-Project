@@ -1,6 +1,9 @@
 
 **CASE STUDY- JOB MARKET ANALYSIS**
 
+This analysis uses a dataset of a jobposting from year 2017 to 2020
+The raw dataset is downloadable and also the reports that I created can be viewed through the power bi file in the repository 
+
 📊 Key Insights – Average Minimum Pay by Experience
 
 

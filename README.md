@@ -30,7 +30,7 @@ Salary dips around 8–9 years of experience across multiple roles suggest poten
 <img width="1678" height="944" alt="image" src="https://github.com/user-attachments/assets/e9fdbf7f-470a-493e-bfad-f82169c7b6e9" />
 
 
-The report analyzes the job market using a year slicer, a treemap, and a bar chart to show trends in job demand and experience requirements. The year slicer (2020–2021) allows users to filter the visuals dynamically and compare changes over time.
+The report analyzes the job market using a year slicer, a treemap, and a bar chart to show trends in job demand and experience requirements. The year slicer allows users to filter the visuals dynamically and compare changes over time.
 
 The treemap highlights job demand by role, showing that Data Architect and UX Researcher positions have the highest demand, while roles such as Data Science Engineer, Financial Planning, and Analytics show moderate demand. Smaller roles indicate more niche or emerging opportunities.
 

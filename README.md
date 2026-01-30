@@ -24,6 +24,9 @@ Software Developer pay grows gradually but remains below data-focused roles at h
 Mid-to-senior level volatility:
 Salary dips around 8–9 years of experience across multiple roles suggest potential role transitions, management shifts, or market normalization at senior levels.
 
+Job Posting by Job title
+
+<img width="1648" height="830" alt="image" src="https://github.com/user-attachments/assets/f587cf4b-de7b-45b1-9a73-1c157b48d8fe" />
 
 
 

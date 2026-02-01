@@ -1,8 +1,7 @@
 
 **CASE STUDY- JOB MARKET ANALYSIS**
 
-(This analysis uses a dataset of a jobpostings,
-The raw dataset is attached and downloadable and also the reports that I created can be viewed through the power bi file name -Job Market Analysis.pbix)
+This analysis uses a sample job postings dataset from 2017-2019. The raw dataset is attached and available for download, and the reports I created can be viewed in the Power BI file named “Job Market Analysis.pbix.”
 
 📊 Key Insights – Average Minimum Pay by Experience
 

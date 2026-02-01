@@ -44,9 +44,22 @@ Overall, the report shows that the job market is strongly oriented toward experi
 
 
 
-<img width="1648" height="830" alt="image" src="https://github.com/user-attachments/assets/f587cf4b-de7b-45b1-9a73-1c157b48d8fe" />
+<img width="1634" height="816" alt="image" src="https://github.com/user-attachments/assets/3d3214e8-1905-4c4c-804d-f6c038d63a0e" />
 
-The above report shows the amount of job postings for each job titles over the few years. 
+
+Key Business Insights 
+
+KPI Trend: Total Job Postings ↑ ~175% from 2017 to 2021
+
+Dominant Segment: Mid-Senior Level (highest share of total demand)
+
+Growth Inflection Point: 2019 → 2020
+
+Hiring Strategy Implication: Strong focus on experienced talent acquisition, with rising investment in entry-level hiring
+
+Analytical Conclusion
+
+The hiring landscape reflects a market shift toward experienced and scalable workforce expansion, with post-2019 acceleration driven primarily by Mid-Senior and Associate-level recruitment.
 
 
 
